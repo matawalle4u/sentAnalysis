@@ -3,6 +3,9 @@ Negations handled here, The result is stored
 In an array with negated_ preceded for further
 Usage, to use we retrieve all the words with 
 negated__ before them and find their polarity
+
+
+
 """
 import csv
 def negate_sequence(text):
